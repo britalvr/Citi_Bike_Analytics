@@ -1,6 +1,6 @@
 # Citi_Bike_Analytics
 Tableau HW Assignment 20
-
+# Link to Tableau assignment : https://public.tableau.com/profile/brittany4093#!/vizhome/HW20_15676397591710/TripsGenders
 
 
 # Tableau Assignment - Citi Bike Analytics
